@@ -1,18 +1,4 @@
-<style>
-  .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-  
-  .stats-container {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin-top: 20px;
-  }
-</style>
+
 
 <div class="container">
   <h1>Hi 👋, I'm Burak Öztaş</h1>
