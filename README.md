@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakoztas94&show_icons=true&locale=en" alt="burakoztas94" width="400" height="400"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakoztas94&" alt="burakoztas94" width="400" height="400"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakoztas94&" alt="burakoztas94" width="800" height="800"/></p>
